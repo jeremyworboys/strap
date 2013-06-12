@@ -1,6 +1,6 @@
 {
   "name": "Strap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Strap is a small binary app written in Node.js for bootstrapping development projects.",
   "main": "index.js",
   "bin": {
